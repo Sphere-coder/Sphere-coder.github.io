@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechancial Design, Manufacturing and Automation, Jiangxi University of Science and Technology, 2018
+* Robotics. University of Pennsylvania, Coursera, 2021
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2022 - Jun 2023: Research Assistant
+  * Guangdong Technion-Israel Institute of Technology (GTIIT) 
+  * Duties included: 3D printing literature review, Robotics Manuipulation, Computer graphics.
+  * Supervisor: Prof. Zhujiang Wang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul 2023 - Current: Research Assistant
+  * Sichuan University
+  * Duties included: Literature Review, 3D reconstruction
+  * Supervisor: Prof. Zhenyu Xu
   
 Skills
 ======
