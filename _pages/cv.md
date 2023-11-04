@@ -27,14 +27,11 @@ Work experience
   * Duties included: Literature Review, 3D reconstruction
   * Supervisor: Prof. Zhenyu Xu
   
-Skills
+Technical
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C++, C, Python, C#, Matlab
+* Language: Cantonese (Mother Tongue), English, German
+* Software: Anaconda, Pycharm, Visual Studio, Solidworks, Matlab.
 
 Publications
 ======
