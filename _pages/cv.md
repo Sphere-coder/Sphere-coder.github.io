@@ -44,4 +44,8 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Summer Volunteer Teaching in 2015 (Ganzhou, Jiangxi)
+* Vice-President of the Student Union (2016-2017)
+* World Environmental Volunteers in 2017
+* Volunteers Against COVID-19, 2020
+* 
