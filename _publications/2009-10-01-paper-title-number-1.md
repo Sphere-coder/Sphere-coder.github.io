@@ -22,6 +22,3 @@ best among selected models; the first invariant plays an important role in const
 invariant does not have obvious influence on improving the fitting performance. This study provides a full-field
 method to calibrate and compare hyperelastic models of silicone elastomers under biaxial loading conditions
 
-#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
