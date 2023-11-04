@@ -48,4 +48,3 @@ Service and leadership
 * Vice-President of the Student Union (2016-2017)
 * World Environmental Volunteers in 2017
 * Volunteers Against COVID-19, 2020
-* 
