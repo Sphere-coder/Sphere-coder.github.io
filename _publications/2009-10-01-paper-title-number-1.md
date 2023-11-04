@@ -6,7 +6,7 @@ collection: publications
 date: 2023-12
 venue: 'Journal of the Mechanical Behavior of Biomedical Materials'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1751616122004271'
-#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
 ---
 Abstract:
 Silicone elastomers have been widely used for biomedical applications. A variety of hyperelastic models have
