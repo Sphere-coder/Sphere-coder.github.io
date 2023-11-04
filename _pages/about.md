@@ -19,6 +19,6 @@ Upon my return to my hometown in 2021, I embarked on a journey of entrepreneursh
 
 In 2022, I joined **[Prof. Zhujiang Wang](https://research.gtiit.edu.cn/en/persons/zhujiang-wang)**'s research group at the Guangdong Technion-Israel Institute of Technology (GTIIT) as a research assistant. There, I engaged in research related to computer graphics, biomechanics, and robot control. Currently, I am a research assistant under the supervision of **[Prof Zhenyu Xu](http://laiw.scu.edu.cn/web/team/ff80808174f8a8a30175cb179d8a0011)**' at the School of Computer Science, Sichuan University, focusing on high-precision 3D scene reconstruction.
 
-
+You can download my CV here.
 
 
