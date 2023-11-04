@@ -29,9 +29,11 @@ Work experience
   
 Technical
 ======
-* Programming: C++, C, Python, C#, Matlab
-* Language: Cantonese (Mother Tongue), English, German
+* Programming: C++, C, Python, C#, Matlab.
+* Language: Cantonese (Mother Tongue), English, German.
 * Software: Anaconda, Pycharm, Visual Studio, Solidworks, Matlab.
+* Framework: Pytorch, Tensorflow, Unity.
+* Open Libraries: OpenCV, OpenGl, PCL.
 
 Publications
 ======
@@ -39,17 +41,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Service and leadership
 ======
