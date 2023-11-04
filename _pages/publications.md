@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/2009-10-01-paper-title-number-1.md
+permalink: /publications/
 author_profile: true
 ---
 
