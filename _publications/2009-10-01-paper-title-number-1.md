@@ -3,7 +3,7 @@ title: "A comparative study of invariant-based hyperelastic models for silicone 
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
 date: 2023-12-01
-venue: 'Journal of the Mechanical Behavior of Biomedical Materials'
+venue: 'Journal of the Mechanical Behavior of Biomedical Materials (Q2)'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1751616122004271'
 
 ---
