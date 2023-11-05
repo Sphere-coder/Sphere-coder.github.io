@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Some Attempts"
-permalink: /projects/
+permalink: /project/
 author_profile: true
 redirect_from:
   - /resume
