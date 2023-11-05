@@ -11,7 +11,7 @@ redirect_from:
 
 here 1
 
-![figure1](/file/Figure_1.png)
+![figure1](/files/Figure_1.png)
 
 
 
