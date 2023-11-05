@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# first
+## 3D reconstruction based on random particles
+![Figure1](/files/Figure_1.png)
+
