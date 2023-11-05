@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conference"
+title: "Conference & Visit"
 permalink: /conferences/
 author_profile: true
 redirect_from:
