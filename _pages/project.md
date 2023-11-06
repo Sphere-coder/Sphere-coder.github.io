@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 ## 3D reconstruction based on random particles
-
-1. here is one expample
-2. ![figure_1](/files/Figure_1.png)
+![figure_1](/files/Figure_1.png)![figure_2](/files/Figure_2.png)![figure_3](/files/Figure_3.png)
 
 
 
