@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## 3D reconstruction based on random particles
-![figure](/files/Figure_center)
+![figure](/files/Figure_center.png)
 
 
 
