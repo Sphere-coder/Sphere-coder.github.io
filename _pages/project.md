@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 ## 3D reconstruction based on random particles
-<center class = "half">
-<img src = "/files/Figure_1.png" width = 200/>
-<img src = "/files/Figure_2.png" width = 200/>
-</center>
+<figure class = "third">
+<img src = "/files/Figure_1.png" width = 400/>
+<img src = "/files/Figure_2.png" width = 400/>
+<img src = "/files/Figure_3.png" width = 400/>
+</figure>
 
 
 
