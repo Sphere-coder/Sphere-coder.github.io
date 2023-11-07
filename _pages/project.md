@@ -10,7 +10,10 @@ redirect_from:
 
  <summary><b>3D reconstruction based on random particles</b> </summary>
   
-<details>  ![figure](/files/Figure_center.png) </details>
+  <details> 
+  <img src = "/files/Figure_center.png">
+  
+  </details>
 
 
 
