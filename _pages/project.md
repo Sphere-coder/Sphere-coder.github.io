@@ -7,12 +7,14 @@ redirect_from:
   - /resume
 ---
 
-<details>
+
  <summary> 3D reconstruction based on random particles </summary>
   
  ![figure](/files/Figure_center.png)
+
 short description: 11111
-<details>
+
+<details> What is this? </details>
 
 
 
