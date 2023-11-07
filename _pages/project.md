@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 <details>
-<summary> 3D reconstruction based on random particles </summary>
-![figure](/files/Figure_center.png)
+ <summary> 3D reconstruction based on random particles </summary>
+  
+ ![figure](/files/Figure_center.png)
+short description: 11111
 <details>
 
 
