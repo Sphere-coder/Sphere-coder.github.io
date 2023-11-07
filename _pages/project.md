@@ -8,13 +8,9 @@ redirect_from:
 ---
 
 
- <summary> *3D reconstruction based on random particles* </summary>
+ <summary><b>3D reconstruction based on random particles</b> </summary>
   
- ![figure](/files/Figure_center.png)
-
-short description: 11111
-
-<details> What is this? </details>
+<details>  ![figure](/files/Figure_center.png) </details>
 
 
 
