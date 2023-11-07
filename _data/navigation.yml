@@ -10,7 +10,7 @@ main:
     url: /conferences/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: /project/
         
   - title: "Blog Posts"
     url: /blog/
