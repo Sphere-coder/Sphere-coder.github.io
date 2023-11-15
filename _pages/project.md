@@ -39,11 +39,17 @@ redirect_from:
   
   </details>
 
-## Design a composite blast machine 
+## Design a composite blast machine (2017)
  <details> 
   <img src = "/files/1.png" alt = "figure" width = 600 height = 400> 
   
   </details>
+
+## Design a Robot arm (2016)
+<details>
+ <img src = "/files/1.png" alt = "figure" width = 600 height = 400> 
+  
+</details>
 
 
 
