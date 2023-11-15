@@ -35,6 +35,18 @@ redirect_from:
 - Sep. 2018 IELTS test in Hongkong.
 - Jul. 2018 closed my bachelor study.
 - May. 2018 I was awarded the Top Ten college student Scholarship (The highest award of JXUST).
-- Apr. 2018 Our team was awarded the completion of the national college research project "Creative assembling robot".
-- 
+- Apr. 2018 Our team was awarded the completion of the national college research project ***Development of Creative assembling robot***.
+- Nov. 2017 I got the ***first class*** academic scholarship.
+- Oct. 2017 Our work "composite multifunctional shot blasting machine" was invited to have a presentation at the final of 3D contest.
+- Jul. 2017 Our work "composite multifunctional shot blasting machine" was awarded the ***National First Prize*** in 3D contest.
+- Jul. 2017 Our team was award ***National Second prize*** in MathorCup mathematical modelling contest.
+- Mar. 2017 I founded the Huiyu Robotics Club, got the funding from university.
+- Nov. 2016 I got the ***first class*** academic scholarship.
+- Sep. 2016 I was appointed as Vice President of the Student Council.
+- Jun. 2016 Our project ***Development of Creative assembling robot***  was endorsed.
+- Apr. 2016 Our team won the ***International First Prize*** in the ***Asia and Pacific Mathematical Contest in modeling***
+- Nov. 2015 I got the ***first class*** academic scholarship.
+- Jul. 2015 Attended the training of mathematical modelling.
+- Jun. 2015 We moved to another campus.
+- Sep. 2014 I arrived my bachelor university.
 
