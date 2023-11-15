@@ -26,6 +26,15 @@ redirect_from:
 - Apr. 2021 joined the Stein&Partner LLP as a part-time german translator.
 - Mar. 2021 attended the advanced german translate studies in Nanjing, Jiangsu.
 - Feb. 2021 I passed the ***Goethe Zertifikat C2***(The highest level of german language).
-- 
+- Dec. 2020 tour in Nanning, Guangxi.
+- Oct. 2020 Xi'an tour, Shaanxi.
+- Aug. 2020 Volunteer in Panjiayuan Community, Beijing.
+- Oct. 2019 - Mar. 2020 Five months in Europe, big trip in Germany, Switzerland, Netherlands, Belgium, France, Italy, Spain, Finland, Norway and Sweden.
+- Sep. 2019 Finished my german study in Beijing.
+- Oct. 2018 Started my travel in german study in Beijing.
+- Sep. 2018 IELTS test in Hongkong.
+- Jul. 2018 closed my bachelor study.
+- May. 2018 I was awarded the Top Ten college student Scholarship (The highest award of JXUST).
+- Apr. 2018 Our team was awarded the completion of the national college research project "Creative assembling robot".
 - 
 
