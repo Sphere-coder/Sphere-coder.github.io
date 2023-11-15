@@ -15,10 +15,13 @@ redirect_from:
 - Karto
 - Cartographer
    <details> 
-  <img src = "/files/Figure_center.png" alt = "figure">
+  <img src = "/files/Figure_4.png" alt = "figure">
   
   </details>
 - RRT exploration
+  <img src = "/files/Figure_5.png" alt = "figure">
+  
+  </details>
   
 
 ### 3D Reconstruction
