@@ -47,7 +47,7 @@ redirect_from:
 
 ## Design a Robot arm (2016)
 <details>
- <img src = "/files/1.png" alt = "figure" width = 600 height = 400> 
+ <img src = "/files/3.png" alt = "figure" width = 600 height = 400> 
   
 </details>
 
