@@ -34,7 +34,7 @@ redirect_from:
 ## Mesh generation algorithm for FEA (2022)
   
   <details> 
-  <img src = "/files/Figure_center.png" alt = "figure" width = 400 height = 400>
+  <img src = "/files/Figure_center.png" alt = "figure" width = 600 height = 400>
   
   </details>
 
