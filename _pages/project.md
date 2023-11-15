@@ -8,11 +8,6 @@ redirect_from:
 ---
 
 ## ROS Car
-### Vision Process
-- OpenCV
-- deepl visual follow
-- 3D visualization
-- 3D Navigation
 
 ### Navigation and Mapping
 - Gmapping
