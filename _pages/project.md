@@ -39,7 +39,11 @@ redirect_from:
   
   </details>
 
-
+## Design a composite blast machine 
+ <details> 
+  <img src = "/files/Figure_center.png" alt = "figure" width = 600 height = 400>
+  
+  </details>
 
 
 
