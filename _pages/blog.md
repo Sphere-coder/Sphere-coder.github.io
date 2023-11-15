@@ -15,8 +15,10 @@ redirect_from:
 - Late May. 2023, I had a deep exploration Jingdezhen, Nanchang.
 - May. 2023 I attended the farewell party hosted by the lab manager at GTIIT. Thanks for the people (students, colleagues, professors) met in Shantou.
 - Dec. 2022 My first paper was accepted by the ***Journal of the Mechanical Behavior of Biomedical Materials***.
-- Sep. 2022 Finish the project ***Deveopment of the mesh generation algorithm***.
+- Sep. 2022 Finished the project ***Deveopment of the mesh generation algorithm***.
 - May. 2022 I joined GTIIT as a research assistant under the supervison of Prof. Zhujiang Wang.
 - Apr. 2022 I was quarantined in an official hotel for the close contact with a COVID-19 patient (14 days).
-- 
+- Feb. 2022 Tour in Henan Province.
+- Nov. 2021 worked as volunteers against COVID-19 in Guangzhou.
+- Sep. 2021 passed the final assessment of the course (Robotics) delivered by the University of Pennsylvania in Cousera. [Module: Aerial and Motion planning)
 
