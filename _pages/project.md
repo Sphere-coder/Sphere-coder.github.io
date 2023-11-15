@@ -14,9 +14,15 @@ redirect_from:
 - Hector
 - Karto
 - Cartographer
+   <details> 
+  <img src = "/files/Figure_center.png" alt = "figure">
+  
+  </details>
 - RRT exploration
+  
+
 ### 3D Reconstruction
-- Cartographer 
+- Cartographer 3D
 - LIO-SAM
 - LeGO-LOAM
 
@@ -28,6 +34,8 @@ redirect_from:
   <img src = "/files/Figure_center.png" alt = "figure">
   
   </details>
+
+
 
 
 
