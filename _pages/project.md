@@ -15,12 +15,12 @@ redirect_from:
 - Karto
 - Cartographer
    <details> 
-  <img src = "/files/Figure_5.png" alt = "figure" width = 300 height = 200> 
+  <img src = "/files/Figure_5.png" alt = "figure" width = 400 height = 400> 
   </details>
   
 - RRT exploration
   <details>
-  <img src = "/files/Figure_4.png" alt = "figure">
+  <img src = "/files/Figure_4.png" alt = "figure" width = 400 height = 400>
   </details>
   
 
@@ -34,7 +34,7 @@ redirect_from:
 ## Mesh generation algorithm for FEA (2022)
   
   <details> 
-  <img src = "/files/Figure_center.png" alt = "figure">
+  <img src = "/files/Figure_center.png" alt = "figure" width = 400 height = 400>
   
   </details>
 
