@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+### updating...
 - Oct. 2023 I participated in the marathon race (Chengdu).
 - Sep. 2023 I attended the China (Chengdu) International Industrial Automation & Robotics Exhibition.
 - Jun. 2023 I joined the research group of Prof. Zhenyu Xu as a research assistant in Sichuan University, new environment but new challenges.
