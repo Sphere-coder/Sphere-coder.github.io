@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-## 3D reconstruction based on random particles
+## Mesh generation algorithm for FEA
   
   <details> 
   <img src = "/files/Figure_center.png" alt = "figure">
