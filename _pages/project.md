@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## 1. Make a ROS AI Car with Jetson nano and STM32
+## 1. Make a ROS AI Car with Jetson nano and STM32 (2023)
 
 ## 2. ROS Car (2023)
 
