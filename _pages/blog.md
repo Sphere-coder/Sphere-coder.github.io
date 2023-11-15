@@ -18,7 +18,14 @@ redirect_from:
 - Sep. 2022 Finished the project ***Deveopment of the mesh generation algorithm***.
 - May. 2022 I joined GTIIT as a research assistant under the supervison of Prof. Zhujiang Wang.
 - Apr. 2022 I was quarantined in an official hotel for the close contact with a COVID-19 patient (14 days).
-- Feb. 2022 Tour in Henan Province.
+- Feb. 2022 had a tour in Henan Province.
 - Nov. 2021 worked as volunteers against COVID-19 in Guangzhou.
-- Sep. 2021 passed the final assessment of the course (Robotics) delivered by the University of Pennsylvania in Cousera. [Module: Aerial and Motion planning)
+- Sep. 2021 passed the final assessment of the course (Robotics) delivered by the University of Pennsylvania in Cousera. [Module: Aerial Robot and Motion planning).
+- Jul. 2021 had a tour in Dalian, Liaoning.
+- Jun. 2021 had a tour in Changsha, Hunan.
+- Apr. 2021 joined the Stein&Partner LLP as a part-time german translator.
+- Mar. 2021 attended the advanced german translate studies in Nanjing, Jiangsu.
+- Feb. 2021 I passed the ***Goethe Zertifikat C2***(The highest level of german language).
+- 
+- 
 
