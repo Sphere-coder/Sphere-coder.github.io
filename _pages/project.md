@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 ## ROS Car
-1. ffsdf
-2. dfdfsdfsf
-3. dfsdfsfdsfdfs
+- ffsdf
+
 
 ## 3D reconstruction based on random particles
   
