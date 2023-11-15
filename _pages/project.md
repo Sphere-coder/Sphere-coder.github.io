@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## ROS Car
+## ROS Car (2023)
 
 ### Navigation and Mapping
 - Gmapping
@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-## Mesh generation algorithm for FEA
+## Mesh generation algorithm for FEA (2022)
   
   <details> 
   <img src = "/files/Figure_center.png" alt = "figure">
