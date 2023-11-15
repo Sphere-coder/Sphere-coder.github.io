@@ -12,8 +12,6 @@ redirect_from:
 2. dfdfsdfsf
 3. dfsdfsfdsfdfs
 
-
-
 ## 3D reconstruction based on random particles
   
   <details> 
