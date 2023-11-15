@@ -41,7 +41,7 @@ redirect_from:
 
 ## Design a composite blast machine 
  <details> 
-  <img src = "/files/1.png" alt = "figure" width = 600 height = 400> <img src = "/files/2.png" alt = "figure" width = 600 height = 400>
+  <img src = "/files/1.png" alt = "figure" width = 600 height = 400> 
   
   </details>
 
