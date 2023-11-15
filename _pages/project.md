@@ -10,6 +10,7 @@ redirect_from:
 ## ROS Car (2023)
 
 ### Navigation and Mapping
+- Ttrajectories planning with TEB and DWA
 - Gmapping
 - Hector
 - Karto
