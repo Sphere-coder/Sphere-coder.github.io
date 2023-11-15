@@ -9,7 +9,7 @@ redirect_from:
 ## Make a ROS AI Car with Jetson nano and STM32
 ## ROS Car (2023)
 
-### Navigation and Mapping
+### 1. Navigation and Mapping
 - Ttrajectories planning with TEB and DWA
 - Gmapping
 - Hector
@@ -25,7 +25,7 @@ redirect_from:
   </details>
   
 
-### 3D Reconstruction
+### 2. 3D Reconstruction
 - Cartographer 3D
 - LIO-SAM
 - LeGO-LOAM
