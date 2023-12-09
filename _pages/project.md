@@ -14,7 +14,7 @@ redirect_from:
   </details>
 
   <details>
-   <img src = "/files/1.toys.png" alt = "figure" width = 400 height = 400> 
+  <img src = "/files/1.toys.png" alt = "figure" width = 400 height = 400> 
   </details>
 
 
