@@ -10,7 +10,7 @@ redirect_from:
 
 ## 1. 3D Reconstruction attempts (2023)
    <details> 
-  <img src = "/files/1. outdoors.png" alt = "figure" width = 400 height = 400> 
+  <img src = "/files/1. outdoors.png" alt = "figure" width = 600 height = 600> 
   </details>
 
   <details>
