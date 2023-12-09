@@ -34,7 +34,7 @@ redirect_from:
 - Oct. 2018 Started my travel in german study in Beijing.
 - Sep. 2018 IELTS test in Hongkong.
 - Jul. 2018 closed my bachelor study.
-- May. 2018 I was awarded the Top Ten college student Scholarship (The highest award of JXUST).
+- May. 2018 I was awarded the [Top Ten college student Scholarship](https://www.jxust.edu.cn/info/1011/14682.htm) (The highest award of JXUST).
 - Apr. 2018 Our team was awarded the completion of the national college research project ***Development of Creative assembling robot***.
 - Nov. 2017 I got the ***first class*** academic scholarship.
 - Oct. 2017 Our work "composite multifunctional shot blasting machine" was invited to have a presentation at the final of 3D contest.
