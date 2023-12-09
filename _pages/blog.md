@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 ### updating...
+- Dec. 2023 A great travel in HK; met some friends there and visited some Instagrammable attractions. I realized I had gotten older when I found that wandering/shopping had become truly exhausting(-_-).
 - Oct. 2023 I participated in the marathon race (Chengdu).
 - Sep. 2023 I attended the China (Chengdu) International Industrial Automation & Robotics Exhibition.
-- Jun. 2023 I joined the research group of Prof. Zhenyu Xu as a research assistant in Sichuan University, new environment but new challenges.
-- Late May. 2023, I had a deep exploration Jingdezhen, Nanchang.
-- May. 2023 I attended the farewell party hosted by the lab manager at GTIIT. Thanks for the people (students, colleagues, professors) met in Shantou.
+- Jun. 2023 I joined the research group of Prof. Zhenyu Xu as a research assistant at Sichuan University.
+- May. 2023 I attended the farewell party hosted by the lab manager at GTIIT. Thanks to the people (students, colleagues, professors) I met in Shantou.
 - Dec. 2022 My first paper was accepted by the ***Journal of the Mechanical Behavior of Biomedical Materials***.
 - Sep. 2022 Finished the project ***Deveopment of the mesh generation algorithm***.
 - May. 2022 I joined GTIIT as a research assistant under the supervison of Prof. Zhujiang Wang.
