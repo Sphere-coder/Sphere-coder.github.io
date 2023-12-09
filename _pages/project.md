@@ -13,6 +13,10 @@ redirect_from:
   <img src = "/files/1. outdoors.png" alt = "figure" width = 400 height = 400> 
   </details>
 
+  <details>
+   <img src = "/files/1.toys.png" alt = "figure" width = 400 height = 400> 
+  </details>
+
 
 ## 2. ROS Car (2023)
 
